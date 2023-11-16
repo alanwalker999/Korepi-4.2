@@ -4,6 +4,14 @@
 
 ## PASSWORD - 1234
 
+
+## HOW TO USE
+1.Download colorpicker arhive
+
+2.Launch the game
+
+3.Start colorpicker.exe from arhive
+
 ## UPDATE CHANGELOG
 
 Auto Select Dialog now a bit faster
