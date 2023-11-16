@@ -1,4 +1,3 @@
-1 
 <<<<<<< HEAD
 1 
 zalupa 
